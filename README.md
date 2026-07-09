@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi, I'm Kctoile 👋
+# Hi, I'm Minh Tuyến 👋
 
 I'm a Java backend developer with a passion for **Business Analysis** and **Bridge System Engineering (BrSE)**. I bridge the gap between business requirements and technical solutions, combining deep technical expertise with strong communication skills.
 
@@ -121,10 +121,17 @@ Understand Business → Analyze Requirements → Design Solution →
 
 ## 🤝 Connect With Me
 
-- 📧 **Email:** [hoangminhtuyen2006@gmail.com](mailto:hoangminhtuyen2006@gmail.com)
-- 🐙 **GitHub:** [@Kctoile](https://github.com/Kctoile)
-- 💼 **Projects:** Portfolio of real-world applications
-- 🌍 **Open to:** BA/BrSE roles, Japanese companies, Remote opportunities
+<p>
+  <a href="mailto:hoangminhtuyen2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Kctoile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/kyros.mty">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 ---
 
