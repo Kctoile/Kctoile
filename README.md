@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/Kctoile">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Minh+Tuyến+👋;Java+Developer;Jakarta+EE+Enthusiast;Building+Enterprise+Applications" alt="Minh Tuyến" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Minh+Tuyến+👋;Java+Backend+Developer;BA%2FBrSE+Aspirant;Building+Enterprise+Solutions" alt="Minh Tuyến" />
   </a>
 </p>
 
 # Hi, I'm Minh Tuyến 👋
 
-I'm a passionate Java developer who loves building robust backend systems and scalable web applications. I enjoy the entire development lifecycle—from architectural design to deployment and optimization.
+I'm a Java backend developer with a passion for **Business Analysis** and **Bridge System Engineering (BrSE)**. I bridge the gap between business requirements and technical solutions, combining deep technical expertise with strong communication skills.
 
-Most of my learning comes from building real-world projects, starting with an idea, turning it into a functional application, then continuously improving it through testing, refactoring, and new features.
+My journey is about understanding **what** needs to be built, **why** it matters, and **how** to deliver it efficiently. I'm developing skills in requirements analysis, stakeholder communication, and system design—especially with a focus on Japanese business culture and practices.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -25,8 +25,19 @@ Most of my learning comes from building real-world projects, starting with an id
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" />
+</p>
+
+---
+
+## 🎯 BA/BrSE Focus Areas
+
+<p>
+  <img src="https://img.shields.io/badge/Requirements_Analysis-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stakeholder_Communication-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Design-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Process_Improvement-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Japanese_Business-gold?style=flat-square" />
 </p>
 
 ---
@@ -39,14 +50,27 @@ Most of my learning comes from building real-world projects, starting with an id
 
 Java • Jakarta EE 10 • JSP/Servlet • PostgreSQL • Docker • Render
 
-A comprehensive web application for managing dental clinic operations with role-based access control (Admin, Doctor, Staff, Customer). The project demonstrates enterprise-level development practices including security hardening, transaction management, and cloud deployment.
+A full-stack web application demonstrating end-to-end system development from requirements to production deployment.
 
-**Key Features:**
-- 4 role-based systems with complete CRUD operations
-- PreparedStatement & JDBC for database operations
-- Multi-stage Docker build for optimized containers
-- Deployed on Render Cloud for production use
-- **18 security vulnerabilities fixed** (Auth bypass, XSS, IDOR, SQL Injection protection)
+**Business Value:**
+- Serves 4 user roles with distinct business needs (Admin, Doctor, Staff, Customer)
+- Streamlines clinic operations: patient management, scheduling, and billing
+- Implements audit trails and permission controls
+
+**Technical Excellence:**
+- PreparedStatement & JDBC for data integrity
+- Role-based access control with comprehensive validation
+- Transaction management with SERIALIZABLE isolation
+- **18 security vulnerabilities addressed** (Authentication, Authorization, Input Validation)
+- Multi-stage Docker containerization
+- Cloud deployment on Render
+
+**BA/BrSE Learning:**
+- Business requirement gathering and analysis
+- User role identification and privilege mapping
+- Process workflow documentation
+- Security & compliance considerations
+- Deployment & operations planning
 
 🔗 **Live Demo:** [https://dencli.onrender.com/phongkhamnhakhoa/](https://dencli.onrender.com/phongkhamnhakhoa/)
 
@@ -54,41 +78,63 @@ A comprehensive web application for managing dental clinic operations with role-
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Learning & Development Path
 
-- 🏗️ Enterprise software architecture patterns
-- 🔐 Advanced security practices & vulnerability prevention
-- 📊 Database optimization & query performance tuning
-- 🚀 Microservices architecture & Spring Boot integration
-- 🧪 Automated testing & CI/CD pipelines
-- ☁️ Cloud deployment strategies
+### Technical Mastery
+- 🏗️ Enterprise architecture patterns & best practices
+- 🔐 Security-first development & vulnerability prevention
+- 📊 Database optimization & performance tuning
+- 🚀 Microservices & distributed systems
 
----
-
-## 📊 Development Approach
-
-```
-Idea → Design → Implementation → Testing → Deployment → Optimization
-  ↓       ↓          ↓            ↓           ↓            ↓
- Plan   Architecture Code      Security    Monitor      Refactor
-```
+### BA/BrSE Skills
+- 📋 Requirements elicitation & analysis documentation
+- 👥 Stakeholder management & cross-cultural communication
+- 📊 Business process mapping & workflow analysis
+- 🎯 Solution design & trade-off analysis
+- 🇯🇵 Japanese business practices & communication style
+- 📈 Quality assurance & testing strategy
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Why BA/BrSE?
+
+I believe the best technical solutions come from understanding the **business context**. As a BA/BrSE, I can:
+
+- **Bridge Communication** - Translate business needs into technical specifications
+- **Add Value** - Identify optimization opportunities beyond the stated requirements
+- **Reduce Risk** - Catch issues early through thorough analysis
+- **Improve Quality** - Ensure solutions truly meet business objectives
+- **Enable Scaling** - Design systems that grow with business needs
+
+---
+
+## 🎓 Development Mindset
+
+```
+Understand Business → Analyze Requirements → Design Solution → 
+   Implement Code → Verify & Test → Deploy → Monitor & Improve
+        ↑                                             ↓
+        └─────────── Continuous Feedback Loop ──────┘
+```
+
+---
+
+## 🤝 Connect With Me
 
 - 📧 **Email:** [hoangminhtuyen2006@gmail.com](mailto:hoangminhtuyen2006@gmail.com)
 - 🐙 **GitHub:** [@Kctoile](https://github.com/Kctoile)
-- 💼 **Projects:** Check out my repositories for more work samples
+- 💼 **Projects:** Portfolio of real-world applications
+- 🌍 **Open to:** BA/BrSE roles, Japanese companies, Remote opportunities
 
 ---
 
 <p align="center">
-  <i>Keep Learning • Keep Building • Keep Growing</i>
+  <i>Understand Business • Build Solutions • Create Impact</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-BA%2FBrSE%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Expertise-Full%20Stack%20Java-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interested%20In-Japan%20Tech-red?style=flat-square" />
 </p>
