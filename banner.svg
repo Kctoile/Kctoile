@@ -1,37 +1,23 @@
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
   <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a202c;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2d3748;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
     </linearGradient>
-    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#533483"/>
     </linearGradient>
   </defs>
-  
-  <!-- Background -->
-  <rect width="1200" height="300" fill="url(#bgGradient)"/>
-  
-  <!-- Accent line -->
-  <rect width="1200" height="4" y="120" fill="url(#accentGradient)"/>
-  
-  <!-- Decorative circles -->
-  <circle cx="100" cy="50" r="40" fill="#667eea" opacity="0.2"/>
-  <circle cx="1100" cy="250" r="50" fill="#764ba2" opacity="0.2"/>
-  
-  <!-- Main heading -->
-  <text x="600" y="85" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">
-    Minh Tuyến
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="600" y="160" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e0" text-anchor="middle" font-weight="500">
-    Java Backend Developer • BA/BrSE
-  </text>
-  
-  <!-- Tagline -->
-  <text x="600" y="210" font-family="Arial, sans-serif" font-size="16" fill="#a0aec0" text-anchor="middle">
-    Building Solutions that Bridge Business &amp; Technology
-  </text>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="180" width="900" height="20" fill="url(#accent)" opacity="0.8"/>
+  <text x="50" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Minh Tuyến</text>
+  <text x="50" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#e94560" font-weight="600">Backend Developer  |  BA/BrSE</text>
+  <text x="50" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a0a0b0">Java • Jakarta EE • PostgreSQL • Docker • Bridging Business &amp; Technology</text>
+  <circle cx="820" cy="50" r="40" fill="none" stroke="#e94560" stroke-width="2" opacity="0.3"/>
+  <circle cx="840" cy="70" r="25" fill="none" stroke="#533483" stroke-width="2" opacity="0.3"/>
+  <circle cx="30" cy="175" r="8" fill="#e94560" opacity="0.6"/>
+  <circle cx="60" cy="185" r="5" fill="#533483" opacity="0.6"/>
+  <circle cx="85" cy="178" r="6" fill="#e94560" opacity="0.4"/>
 </svg>
