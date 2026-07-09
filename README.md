@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kctoile">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Minh+Tuyến+👋;Java+Backend+Developer;BA%2FBrSE+Aspirant;Building+Enterprise+Solutions" alt="Minh Tuyến" />
-  </a>
+  <img src="./assets/banner.png" alt="Minh Tuyến - Night Landscape Banner" width="100%" />
 </p>
 
 # Hi, I'm Minh Tuyến 👋
