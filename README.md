@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Minh Tuyến - Night Landscape Banner" width="100%" />
+  <a href="https://github.com/Kctoile">
+    <img src="./banner.svg" alt="Minh Tuyến - Backend Developer Banner" width="100%" />
+  </a>
 </p>
 
 # Hi, I'm Minh Tuyến 👋
 
-I'm a Java backend developer with a passion for **Business Analysis** and **Bridge System Engineering (BrSE)**. I bridge the gap between business requirements and technical solutions, combining deep technical expertise with strong communication skills.
+I'm a **Java backend developer** with a passion for **Business Analysis** and **Bridge System Engineering (BrSE)**. I bridge the gap between business requirements and technical solutions, combining deep technical expertise with strategic business thinking.
 
-My journey is about understanding **what** needs to be built, **why** it matters, and **how** to deliver it efficiently. I'm developing skills in requirements analysis, stakeholder communication, and system design—especially with a focus on Japanese business culture and practices.
+My journey is about understanding **what** needs to be built, **why** it matters, and **how** to deliver it efficiently. I'm developing skills in requirements analysis, stakeholder communication, and building maintainable, secure systems.
 
 ---
 
-## 🛠 Core Tech Stack
+## 🛠 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
